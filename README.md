@@ -45,7 +45,7 @@ This project serves as an excellent portfolio piece, showcasing expertise in rep
 
 ## 🌍 Live Demo
 
-Check out the live version of the project: [Gentlerain.ai Clone](https://thesiyhbrand.github.io/gentlerain-ai-gc/)
+Check out the live version of the project: [Gentlerain.ai Clone](https://phantomgaze.github.io/Gentle-rain-/)
 
 ## 🤝 Contributing
 
