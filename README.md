@@ -4,9 +4,6 @@
 
 This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai), a visually stunning and user-centric website that earned recognition on Awwwards for its design excellence. The goal of this project is to recreate the aesthetic, functionality, and interactivity of the original site, serving as a learning exercise in advanced web development and design principles.
 
-## 👀 Watch Tutorial 👇
-![image](https://github.com/user-attachments/assets/d0535bcb-08f0-434e-8c55-5738c31d0c46)
-[Watch Now 👀](https://youtu.be/V6BAPqVWO8s?si=JDsychz5eeoMWltn)
 
 ## 🚀 Features
 
@@ -38,23 +35,6 @@ The Gentlerain.ai Clone project demonstrates skills in:
 
 This project serves as an excellent portfolio piece, showcasing expertise in replicating award-winning designs and attention to detail.
 
-## 🛠️ Setup & Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/thesiyhbrand/gentlerain-ai-gc.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd gentlerain-ai-gc
-   ```
-3. Open with Live Server to view the output.
-
-## 🔧 Development Notes
-
-- **Code Structure:**
-  - `src/`: Contains all source files including HTML, CSS, and JavaScript.
-
 ## 🎨 Screenshots
 
 ![image](https://github.com/user-attachments/assets/3df000dc-27ed-4644-a569-2928aa11b702)
@@ -79,12 +59,6 @@ Contributions are welcome! If you'd like to collaborate, please follow these ste
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## 💬 Feedback
-
-If you have any feedback or suggestions, please open an issue or reach out via [email](mailto:amarjeet@gravitycoding.com).
-
----
+This project is licensed under the [MIT License](LICENSE)
 
 ⭐ **Thank you for visiting this project! Feel free to explore and use it as a learning resource.**
